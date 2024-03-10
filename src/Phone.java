@@ -9,6 +9,10 @@ public class Phone {
 		System.out.println("停止");
 		
 	}
+	public void next() {
+		System.out.println("次へ");
+		
+	}
 	public void back() {
 		System.out.println("戻る");
 		
